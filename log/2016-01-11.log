@@ -1,0 +1,274 @@
+﻿
+INFO:root:>>> Logging Start
+INFO:root:>>> TraverseApk
+INFO:root:com.bugbox.android.apps.jira.lite_62.apk
+INFO:root:com.dataviz.docstogo_145942.apk
+INFO:root:com.ijinshan.browser_fast_030741.apk
+INFO:root:com.kingsoft_7.2.4_83.apk
+INFO:root:com.nd.desktopcontacts_112908.apk
+INFO:root:com.qzone_5.1.1.156_81.apk
+INFO:root:com.ss.android.article.news_024127.apk
+INFO:root:edaka1.1.apk
+INFO:root:
+
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\com.bugbox.android.apps.jira.lite_62.apk -o out\De_com.bugbox.android.apps.jira.lite_62
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\com.dataviz.docstogo_145942.apk -o out\De_com.dataviz.docstogo_145942
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\com.ijinshan.browser_fast_030741.apk -o out\De_com.ijinshan.browser_fast_030741
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\com.kingsoft_7.2.4_83.apk -o out\De_com.kingsoft_7.2.4_83
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\com.nd.desktopcontacts_112908.apk -o out\De_com.nd.desktopcontacts_112908
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\com.qzone_5.1.1.156_81.apk -o out\De_com.qzone_5.1.1.156_81
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\com.ss.android.article.news_024127.apk -o out\De_com.ss.android.article.news_024127
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\edaka1.1.apk -o out\De_edaka1.1
+INFO:root:>>> TraverseSo
+INFO:root:De_com_addinit.so
+INFO:root:De_edaka1_addinit.so
+INFO:root:UPX_De_com_addinit.so
+INFO:root:libkbrowser_codec.so
+INFO:root:liblocSDK6a.so
+INFO:root:liboptp.so
+INFO:root:libsyscore.so
+INFO:root:liblocSDK4d.so
+INFO:root:shell.so
+INFO:root:libaudiohelper.so
+INFO:root:libbspatch.so
+INFO:root:libcftutils.so
+INFO:root:libdalvik_lac.so
+INFO:root:libHardwareDetector.so
+INFO:root:libimagefilter.so
+INFO:root:libimage_filter_common.so
+INFO:root:libimage_filter_gpu.so
+INFO:root:liblbs.so
+INFO:root:libNativeRQD.so
+INFO:root:libnetworkbase.so
+INFO:root:libpixelutils.so
+INFO:root:libqzonepicscanner.so
+INFO:root:libtencentloc.so
+INFO:root:libuploadnetwork.so
+INFO:root:libwnsnetwork.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libamapv303.so
+INFO:root:libamapv303ex.so
+INFO:root:libjpush163.so
+INFO:root:libnamecardrec.so
+INFO:root:
+
+WARNING:root:Failed: Command 'utils\AddInit.exe out\De_com.nd.desktopcontacts_112908\res\raw\shell.so' returned non-zero exit status -1073741819
+WARNING:root:Failed: Command 'utils\AddInit.exe out\De_com.qzone_5.1.1.156_81\lib\armeabi\libaudiohelper.so' returned non-zero exit status -1073741819
+WARNING:root:Failed: Command 'utils\AddInit.exe out\De_com.qzone_5.1.1.156_81\lib\armeabi\liblbs.so' returned non-zero exit status -1073741819
+INFO:root:>>> TraverseSo
+INFO:root:De_com_addinit.so
+INFO:root:De_edaka1_addinit.so
+INFO:root:UPX_De_com_addinit.so
+INFO:root:libkbrowser_codec.so
+INFO:root:liblocSDK6a.so
+INFO:root:liboptp.so
+INFO:root:libsyscore.so
+INFO:root:liblocSDK4d.so
+INFO:root:shell.so
+INFO:root:libaudiohelper.so
+INFO:root:libbspatch.so
+INFO:root:libcftutils.so
+INFO:root:libdalvik_lac.so
+INFO:root:libHardwareDetector.so
+INFO:root:libimagefilter.so
+INFO:root:libimage_filter_common.so
+INFO:root:libimage_filter_gpu.so
+INFO:root:liblbs.so
+INFO:root:libNativeRQD.so
+INFO:root:libnetworkbase.so
+INFO:root:libpixelutils.so
+INFO:root:libqzonepicscanner.so
+INFO:root:libtencentloc.so
+INFO:root:libuploadnetwork.so
+INFO:root:libwnsnetwork.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libamapv303.so
+INFO:root:libamapv303ex.so
+INFO:root:libjpush163.so
+INFO:root:libnamecardrec.so
+INFO:root:
+
+WARNING:root:Failed: Command 'utils\upx.exe out\De_com_addinit.so -o out\UPX_De_com_addinit.so' returned non-zero exit status 1
+WARNING:root:Failed: Command 'utils\upx.exe out\De_edaka1_addinit.so -o out\UPX_De_edaka1_addinit.so' returned non-zero exit status 1
+WARNING:root:Failed: Command 'utils\upx.exe out\UPX_De_com_addinit.so -o out\UPX_UPX_De_com_addinit.so' returned non-zero exit status 2
+INFO:root:>>> TraverseSo
+INFO:root:De_com_addinit.so
+INFO:root:De_edaka1_addinit.so
+INFO:root:UPX_De_com_addinit.so
+INFO:root:libkbrowser_codec.so
+INFO:root:liblocSDK6a.so
+INFO:root:liboptp.so
+INFO:root:libsyscore.so
+INFO:root:liblocSDK4d.so
+INFO:root:shell.so
+INFO:root:libaudiohelper.so
+INFO:root:libbspatch.so
+INFO:root:libcftutils.so
+INFO:root:libdalvik_lac.so
+INFO:root:libHardwareDetector.so
+INFO:root:libimagefilter.so
+INFO:root:libimage_filter_common.so
+INFO:root:libimage_filter_gpu.so
+INFO:root:liblbs.so
+INFO:root:libNativeRQD.so
+INFO:root:libnetworkbase.so
+INFO:root:libpixelutils.so
+INFO:root:libqzonepicscanner.so
+INFO:root:libtencentloc.so
+INFO:root:libuploadnetwork.so
+INFO:root:libwnsnetwork.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libamapv303.so
+INFO:root:libamapv303ex.so
+INFO:root:libjpush163.so
+INFO:root:libnamecardrec.so
+INFO:root:
+
+INFO:root:UpxSo : 1
+INFO:root:AddInitSo : 2
+INFO:root:OriginalSO ：46
+INFO:root:
+
+INFO:root:AddInit success rate: 4.3%
+INFO:root:Upxpackers success rate: 50.0%
+INFO:root:>>> TraverseSo
+INFO:root:De_com_addinit.so
+INFO:root:De_edaka1_addinit.so
+INFO:root:UPX_De_com_addinit.so
+INFO:root:libkbrowser_codec.so
+INFO:root:liblocSDK6a.so
+INFO:root:liboptp.so
+INFO:root:libsyscore.so
+INFO:root:liblocSDK4d.so
+INFO:root:shell.so
+INFO:root:libaudiohelper.so
+INFO:root:libbspatch.so
+INFO:root:libcftutils.so
+INFO:root:libdalvik_lac.so
+INFO:root:libHardwareDetector.so
+INFO:root:libimagefilter.so
+INFO:root:libimage_filter_common.so
+INFO:root:libimage_filter_gpu.so
+INFO:root:liblbs.so
+INFO:root:libNativeRQD.so
+INFO:root:libnetworkbase.so
+INFO:root:libpixelutils.so
+INFO:root:libqzonepicscanner.so
+INFO:root:libtencentloc.so
+INFO:root:libuploadnetwork.so
+INFO:root:libwnsnetwork.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libweibosdkcore.so
+INFO:root:libaicnt.so
+INFO:root:libgetuiext.so
+INFO:root:libgif.so
+INFO:root:liblocSDK5.so
+INFO:root:libsupervisor.so
+INFO:root:libweibosdkcore.so
+INFO:root:libamapv303.so
+INFO:root:libamapv303ex.so
+INFO:root:libjpush163.so
+INFO:root:libnamecardrec.so
+INFO:root:>>> TraverseFile
+INFO:root:De_com.bugbox.android.apps.jira.lite_62
+INFO:root:De_com.dataviz.docstogo_145942
+INFO:root:De_com.ijinshan.browser_fast_030741
+INFO:root:De_com.kingsoft_7.2.4_83
+INFO:root:De_com.nd.desktopcontacts_112908
+INFO:root:De_com.qzone_5.1.1.156_81
+INFO:root:De_com.ss.android.article.news_024127
+INFO:root:De_edaka1.1
+INFO:root:
+
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_com.bugbox.android.apps.jira.lite_62 -o out\De_com.bugbox.android.apps.jira.lite_62.apk
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_com.dataviz.docstogo_145942 -o out\De_com.dataviz.docstogo_145942.apk
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_com.ijinshan.browser_fast_030741 -o out\De_com.ijinshan.browser_fast_030741.apk
+WARNING:root:Failed: Command 'java -jar utils\apktool.jar b -d out\De_com.ijinshan.browser_fast_030741 -o out\De_com.ijinshan.browser_fast_030741.apk' returned non-zero exit status 1
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_com.kingsoft_7.2.4_83 -o out\De_com.kingsoft_7.2.4_83.apk
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_com.nd.desktopcontacts_112908 -o out\De_com.nd.desktopcontacts_112908.apk
+WARNING:root:Failed: Command 'java -jar utils\apktool.jar b -d out\De_com.nd.desktopcontacts_112908 -o out\De_com.nd.desktopcontacts_112908.apk' returned non-zero exit status 1
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_com.qzone_5.1.1.156_81 -o out\De_com.qzone_5.1.1.156_81.apk
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_com.ss.android.article.news_024127 -o out\De_com.ss.android.article.news_024127.apk
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_edaka1.1 -o out\De_edaka1.1.apk
+INFO:root:>>> TraverseApk
+INFO:root:De_com.bugbox.android.apps.jira.lite_62.apk
+INFO:root:De_com.dataviz.docstogo_145942.apk
+INFO:root:De_com.kingsoft_7.2.4_83.apk
+INFO:root:De_com.qzone_5.1.1.156_81.apk
+INFO:root:De_com.ss.android.article.news_024127.apk
+INFO:root:De_edaka1.1.apk
+INFO:root:Sgn_De_com.bugbox.android.apps.jira.lite_62.apk
+INFO:root:Sgn_De_com.dataviz.docstogo_145942.apk
+INFO:root:Sgn_De_com.kingsoft_7.2.4_83.apk
+INFO:root:Sgn_De_com.qzone_5.1.1.156_81.apk
+INFO:root:Sgn_De_com.ss.android.article.news_024127.apk
+INFO:root:Sgn_De_edaka1.1.apk

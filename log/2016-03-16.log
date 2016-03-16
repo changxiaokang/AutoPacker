@@ -1,0 +1,67 @@
+INFO:root:
+
+INFO:root:>>> Logging Start
+INFO:root:
+
+INFO:root:>>> TraverseApk
+INFO:root:FFX0.apk
+INFO:root:
+
+INFO:root:[Decompile] : java -jar utils\apktool.jar d -r -f apk\FFX0.apk -o out\De_FFX0
+INFO:root:
+
+INFO:root:>>> TraverseSo
+INFO:root:libffx0.so
+INFO:root:libffx0.so
+INFO:root:
+
+INFO:root:
+
+INFO:root:>>> TraverseSo
+INFO:root:libffx0.so
+INFO:root:libffx0_addinit.so
+INFO:root:libffx0.so
+INFO:root:libffx0_addinit.so
+INFO:root:
+
+INFO:root:
+
+INFO:root:>>> TraverseSo
+INFO:root:libffx0.so
+INFO:root:libffx0_addinit.so
+INFO:root:UPX_libffx0_addinit.so
+INFO:root:libffx0.so
+INFO:root:libffx0_addinit.so
+INFO:root:UPX_libffx0_addinit.so
+INFO:root:
+
+INFO:root:UpxSo : 2
+INFO:root:AddInitSo : 2
+INFO:root:OriginalSO ：2
+INFO:root:
+
+INFO:root:AddInit success rate: 100.0%
+INFO:root:Upxpackers success rate: 100.0%
+INFO:root:
+
+INFO:root:>>> TraverseSo
+INFO:root:libffx0.so
+INFO:root:libffx0_addinit.so
+INFO:root:UPX_libffx0_addinit.so
+INFO:root:libffx0.so
+INFO:root:libffx0_addinit.so
+INFO:root:UPX_libffx0_addinit.so
+INFO:root:
+
+INFO:root:>>> TraverseFile
+INFO:root:De_FFX0
+INFO:root:
+
+INFO:root:[build] : java -jar utils\apktool.jar b -d out\De_FFX0 -o out\De_FFX0.apk
+INFO:root:
+
+INFO:root:>>> TraverseApk
+INFO:root:De_FFX0.apk
+INFO:root:
+
+INFO:root:[Signapk] : java -jar utils\signapk.jar utils\PubKey.pem utils\PriKey.pk8 out\De_FFX0.apk out\Sgn_De_FFX0.apk

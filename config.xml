@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<config>
+    <data name = "LogPath" value = "log"/>
+    <data name = "InputPath" value = "apk"/>
+    <data name = "OutputPath" value = "out"/>
+    <data name = "UtilsPath" value = "utils"/>
+
+    <data name = "UpxName" value = "upx.exe"/>
+    <data name = "AddInitName" value = "AddInit.exe"/>
+    <data name = "ApkToolName" value = "apktool.jar"/>
+    <data name = "PubKeyName" value = "PubKey.pem"/>
+    <data name = "PriKeyName" value = "PriKey.pk8"/>
+    <data name = "SignName" value = "signapk.jar"/>
+</config>
