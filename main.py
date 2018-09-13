@@ -210,7 +210,7 @@ class ApkTest():
 
         logging.info("UpxSo : %s" % self.UpxSoSum)
         logging.info("AddInitSo : %s" % self.InitSoSum)
-        logging.info("OriginalSO ï¼š%s" % self.SrcSoSum)
+        logging.info("OriginalSO £º%s" % self.SrcSoSum)
 
         logging.info("\r\n")
         if self.SrcSoSum and self.InitSoSum:

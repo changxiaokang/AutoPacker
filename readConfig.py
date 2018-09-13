@@ -4,7 +4,6 @@ import os
 import platform
 import xml.dom.minidom
 
-
 def getCurrentScriptPath():
     currentPyFilePath = os.path.split(os.path.realpath(__file__))[0]
     return currentPyFilePath
